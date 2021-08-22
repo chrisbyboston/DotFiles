@@ -1,0 +1,9 @@
+[user]
+name = Chris Reynolds
+email = chrisbyboston@gmail.com
+
+[init]
+defaultBranch = main
+
+[core]
+editor = vim

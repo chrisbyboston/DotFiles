@@ -1,0 +1,3 @@
+.aws/** filter=git-crypt diff=git-crypt
+.gpg/** filter=git-crypt diff=git-crypt
+
