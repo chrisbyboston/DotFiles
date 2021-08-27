@@ -99,3 +99,6 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+# Created by `pipx` on 2021-08-24 20:12:54
+export PATH="$PATH:/Users/chrisreynolds/.local/bin"
