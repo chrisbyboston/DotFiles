@@ -102,3 +102,4 @@ source $ZSH/oh-my-zsh.sh
 
 # Created by `pipx` on 2021-08-24 20:12:54
 export PATH="$PATH:/Users/chrisreynolds/.local/bin"
+eval "$(pyenv init -)"
